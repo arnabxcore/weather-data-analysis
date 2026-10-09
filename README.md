@@ -22,6 +22,7 @@ The project uses a sample weather dataset for educational purposes.
 * Python
 * Pandas
 * NumPy
+* Csv
 
 ## 📂 Project Structure
 
